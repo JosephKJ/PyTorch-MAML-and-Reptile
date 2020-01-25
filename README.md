@@ -27,5 +27,5 @@ REPTILE: 0.048
 
 
 
-#### Adapted from
+### Adapted from
 [John Schulman's GIST](https://gist.github.com/joschu/f503500cda64f2ce87c8288906b09e2d#file-reptile-sinewaves-demo-py)
