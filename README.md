@@ -2,16 +2,16 @@
 
 This repository includes the Sine wave experiment with MAML and Reptile.
 
-### Tested on
-```shell script
-Python 3.7.4
-PyTorch 1.3.1
-```
-
 ### Run
 ```shell script
 python main.py --run=MAML
 python main.py --run=Reptile
+```
+
+### Tested on
+```shell script
+Python 3.7.4
+PyTorch 1.3.1
 ```
 
 ### Results
