@@ -22,7 +22,10 @@ Loss after 30000 iterations
 MAML: 0.058
 REPTILE: 0.048
 ```
+MAML:
 ![MAML](https://github.com/JosephKJ/MAML-and-Reptile/blob/master/results/maml.png "MAML")
+
+Reptile:
 ![Reptile](https://github.com/JosephKJ/MAML-and-Reptile/blob/master/results/reptile.png "Reptile")
 
 
